@@ -1,9 +1,18 @@
-# censoredFairness
+# CensoredFairness
 
-This repository maintains the implementation of notions quantifying fairness and approaches migitaging unfairness in the presence of censorhip.    
+This repository provides the implementation of notions and approaches for understanding and delelopment of fairness in the presence of censorship.  
+
+## Fairness notions in the presence of censorship
+1. Concordance Imparity
+2. Fair Calibration 
+
+## Fairness algorithms in the presence of censorship
+
+1. Fair survival forests
 
 
-D2G2 (SDM 21), a generic framework of deep generative models for interpretable dynamic graph generation. Detailded information about D2G2 is provided in [D2G2](https://github.com/vanbanTruong/vanbanTruong.github.io/blob/master/assets/SDM21.pdf). Stay tuned!  
+
+
 
 <!--## Instructions
 1. Clone this repository.
